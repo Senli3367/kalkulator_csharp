@@ -19,5 +19,9 @@ namespace kalkulator
         {
             return a - b;
         }
+        static int perkalian(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
