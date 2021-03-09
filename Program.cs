@@ -23,5 +23,9 @@ namespace kalkulator
         {
             return a * b;
         }
+        static int pembagian(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
